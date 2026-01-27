@@ -1,0 +1,16 @@
+ipykernel
+os
+dotenv
+langchain
+langchain_groq
+langchain.agents
+langchain_google_genai
+langchain.agents.middleware
+langchain.tools
+pydantic
+langchain.agents.structured_output
+typing
+langchain.messages
+
+
+

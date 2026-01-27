@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -213,3 +214,17 @@ __pycache__/
 data/raw/*
 !data/raw/.gitkeep
 
+=======
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Python environments
+venv1/
+.env/
+__pycache__/
+*.py[cod]
+
+# OS files
+.DS_Store
+>>>>>>> b31881a (Add recap notebook and update gitignore for env)
